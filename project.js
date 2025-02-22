@@ -28,7 +28,7 @@ const projectData = {
         title: "Farm Game",
         content1: "Farm Game is an educational game designed to teach young adults about financial management. Players start with nine plots of land to manage. Each crop has a unique cost to plant and varying selling prices depending on the season. ",
         content2: "Players can mortgage their plots to secure loans for expansion. However, failure to repay the loan will result in locked plots, preventing further planting. This game challenges players to plan carefully, adapt to changing market conditions, and make smart financial decisions.",
-        videoURL: "https://www.youtube.com/embed/sample-video-id",
+        videoURL: "https://www.youtube.com/embed/16FL4YdMQ5Y?si=5ZSvFkXs1FTp1nII",
     },
     chef_pa: {
         title: "Chef Pa",
